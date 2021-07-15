@@ -3,3 +3,6 @@
 *.out
 *.zlib
 *.zopfli
+*.gbc
+*.lz4
+compare
